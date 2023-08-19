@@ -8,8 +8,7 @@
     "vim.statusBarColors.visualblock": "#ffc574",
     "vim.statusBarColors.commandlineinprogress": "#ffb6fe",
     "vim.statusBarColors.replace": "llleea5",
-    "workbench.colorTheme": "Monzo Light (rainglow)",
-    "workbench.commandPalette.experimental.suggestCommands": false,
+    "workbench.colorTheme": "Monzo Light (rainglow)", // need to install rainglow as extension
     "workbench.colorCustomizations": {
         "activityBar.background": "#81b8eb",
         "activityBar.activeBackground": "#f8c386fd",
