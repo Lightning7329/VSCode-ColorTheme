@@ -1,0 +1,28 @@
+{
+    "vim.highlightedyank.color": "rgba(245, 158, 205, 0.5)",
+    "vim.statusBarColorControl": true,
+    "vim.statusBarColors.normal": "#d3eefa",
+    "vim.statusBarColors.insert": "#86e6be",
+    "vim.statusBarColors.visual": "#ffc574",
+    "vim.statusBarColors.visualline": "#ffc574",
+    "vim.statusBarColors.visualblock": "#ffc574",
+    "vim.statusBarColors.commandlineinprogress": "#ffb6fe",
+    "vim.statusBarColors.replace": "llleea5",
+    "workbench.colorTheme": "Monzo Light (rainglow)",
+    "workbench.commandPalette.experimental.suggestCommands": false,
+    "workbench.colorCustomizations": {
+        "activityBar.background": "#81b8eb",
+        "activityBar.activeBackground": "#f8c386fd",
+        "activityBarBadge.background": "#4172eec1",
+        "editorCursor.foreground": "#f2c571",
+        "editorCursor.background": "#295777",
+        "editor.lineHighlightBackground": "#bdd2ea78",
+        "editor.selectionBackground": "#fecb786d",
+        "editor.findMatchBackground": "#86e6bec1",
+        "editor.findMatchHighlightBackground": "#f8c98f",
+        "editor.rangeHighlightBackground": "#c8eadcc1",
+        "editor.findRangeHighlightBackground": "#bddaf1a9",
+        "statusBar.foreground": "#28587a",
+        "tab.inactiveForeground": "#28528278"
+    }
+}
