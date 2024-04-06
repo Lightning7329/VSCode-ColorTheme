@@ -1,0 +1,25 @@
+{
+    "everforest.darkWorkbench": "high-contrast",
+    "workbench.colorTheme": "Everforest Dark", // neet to install Everforest
+    "workbench.colorCustomizations": {
+        "[Everforest Dark]": {
+            "editor.wordHighlightBackground": "#f2f2f2a3",
+            "editor.wordHighlightTextBackground": "#acf76032",
+            "editor.lineHighlightBackground": "#90804937",
+            "editor.lineHighlightBorder": "#707e653d",
+            "editor.selectionBackground": "#4a6065a7",
+            "editor.foldBackground": "#68738072",
+            "editorLineNumber.activeForeground": "#df6a3c",
+            "activityBar.activeBackground": "#434a3f",
+            "activityBar.activeBorder": "#a6c999",
+            "tab.activeBackground": "#454d48",
+            "tab.hoverBackground": "#4e5551",
+            "statusBar.foreground": "#ffffff",
+            "statusBar.background": "#3c5f7a",
+            "statusBarItem.remoteForeground": "#ffffff",
+            "statusBarItem.remoteBackground": "#6ca5ad"
+        },
+        "editorCursor.foreground": "#fa9d1c",
+        "terminalCursor.foreground": "#9dc90d"
+    }
+}
